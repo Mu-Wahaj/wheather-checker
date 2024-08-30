@@ -5,15 +5,17 @@
 }
 
 body {
-    background-color: #222;
+    overflow: hidden;
+    background: rgb(177, 177, 177);
+    background: linear-gradient(13deg, rgba(177, 177, 177, 1) 10%, rgba(20, 19, 19, 1) 100%);
 }
 
 .card {
     width: 90%;
-    max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    max-width: 500px;
+    background: linear-gradient(135deg, rgb(181 184 183), rgb(91, 84, 138));
     color: #fff;
-    margin: 100px auto 0;
+    margin: 30px auto;
     border-radius: 20px;
     padding: 40px 30px;
     text-align: center;
@@ -35,7 +37,7 @@ body {
     height: 60px;
     border-radius: 30px;
     flex: 1;
-    margin-right: 16px;
+    margin-right: 8px;
     font-size: 18px;
 
 }
@@ -52,10 +54,10 @@ body {
 }
 
 .search button img {
-    width: 16px;
+    width: 25px;
 }
 
-.wheather-icon {
+.wheather-img {
     width: 100px;
     height: 100px;
     margin-top: 30px;
@@ -91,7 +93,7 @@ body {
 }
 
 .col img {
-    width: 40px;
+    width: 55px;
     margin-right: 10px;
 }
 
@@ -99,4 +101,33 @@ body {
 .wind {
     font-size: 28px;
     margin-top: -6px;
+}
+
+.humidity-para,
+.wind-para {
+    font-size: 20px;
+
+}
+
+.wheather {
+    display: none;
+}
+
+.error {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 15px;
+    background-color: #fe0000d9;
+    height: 25px;
+    display: none;
+    border-radius: 10px;
+    width: 82%;
+
+}
+
+.error p {
+    font-size: 20px;
 }
