@@ -32,9 +32,7 @@ License: This project is licensed under the MIT License. See the LICENSE file fo
 <br/>
 Contact: For questions or feedback, please contact mwahajjutt123@gmail.com
  or open an issue in this repository.
-
  <br/>
-
  <hr/>
  Thank You 
 
