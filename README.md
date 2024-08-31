@@ -20,7 +20,7 @@ OpenWeatherMap API
 <br/>
 Getting Started: To get started with the weather application:
 <br/>
-Clone the repository: git clone https://github.com/yourusername/weather-app.git
+Clone the repository: git clone https://github.com/Mu-Wahaj/wheather-checker.git
 <br/>
 Open index.html in your web browser.
 <br/>
