@@ -5,9 +5,8 @@
 }
 
 body {
-    overflow: hidden;
-    background: rgb(177, 177, 177);
-    background: linear-gradient(13deg, rgba(177, 177, 177, 1) 10%, rgba(20, 19, 19, 1) 100%);
+    background-image: radial-gradient(circle, #4d4d4d, #3a3a3a, #292929, #181818, #000000);
+
 }
 
 .card {
