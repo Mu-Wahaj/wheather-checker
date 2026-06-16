@@ -1,8 +1,8 @@
 
-### Project Name: Weather Application
-## Description:
+## Project Name: Weather Application
+# Description:
 A weather application that utilizes the OpenWeatherMap API to provide real-time weather information. This project allows users to search for weather details by city name and view current weather conditions along with forecasts. It features a clean and responsive design for an optimal user experience across different devices.
-## Features:
+# Features:
 City Search: Users can enter a city name to retrieve current weather data.
 Weather Details: Displays key weather information including temperature, humidity, and weather conditions.
 Forecast Display: Provides a forecast for the selected city to help users plan ahead.
