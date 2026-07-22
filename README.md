@@ -13,13 +13,13 @@ Technologies Used:
 # CSS
 # OpenWeatherMap API
 
-Getting Started: To get started with the weather application:
+ # Getting Started: To get started with the weather application:
 Clone the repository: git clone https://github.com/Mu-Wahaj/wheather-checker.git
 Open index.html in your web browser.
 Enter a city name in the search field to view the current weather and forecast.
 Contributing: Contributions are welcome! If you'd like to enhance the application or add new features, please refer to the CONTRIBUTING.md for guidelines.
 
-License: This project is licensed under the MIT License. See the LICENSE file for more details.
+# License: This project is licensed under the MIT License. See the LICENSE file for more details.
 Contact: For questions or feedback, please contact mwahajjutt123@gmail.com or open an issue in this repository.
 Thank You 
 
